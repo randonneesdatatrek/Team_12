@@ -139,16 +139,3 @@ for a in axes:
 plt.tight_layout()
 
 plt.show()
-
-
-# In[19]:
-
-
-help(contour)
-
-
-# In[ ]:
-
-
-
-
